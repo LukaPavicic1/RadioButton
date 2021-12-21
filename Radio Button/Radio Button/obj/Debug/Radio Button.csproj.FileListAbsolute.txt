@@ -1,0 +1,10 @@
+C:\Users\korisnik\source\repos\Radio Button\Radio Button\bin\Debug\Radio Button.exe.config
+C:\Users\korisnik\source\repos\Radio Button\Radio Button\bin\Debug\Radio Button.exe
+C:\Users\korisnik\source\repos\Radio Button\Radio Button\bin\Debug\Radio Button.pdb
+C:\Users\korisnik\source\repos\Radio Button\Radio Button\obj\Debug\Radio Button.csproj.AssemblyReference.cache
+C:\Users\korisnik\source\repos\Radio Button\Radio Button\obj\Debug\Radio_Button.Form1.resources
+C:\Users\korisnik\source\repos\Radio Button\Radio Button\obj\Debug\Radio_Button.Properties.Resources.resources
+C:\Users\korisnik\source\repos\Radio Button\Radio Button\obj\Debug\Radio Button.csproj.GenerateResource.cache
+C:\Users\korisnik\source\repos\Radio Button\Radio Button\obj\Debug\Radio Button.csproj.CoreCompileInputs.cache
+C:\Users\korisnik\source\repos\Radio Button\Radio Button\obj\Debug\Radio Button.exe
+C:\Users\korisnik\source\repos\Radio Button\Radio Button\obj\Debug\Radio Button.pdb
